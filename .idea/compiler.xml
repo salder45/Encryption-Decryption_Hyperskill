@@ -2,6 +2,13 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-classes-java.main" target="8" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-classes-kotlin.main" target="8" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-generated-sources-annotationProcessor-java.main" target="8" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-generated-sources-headers-java.main" target="8" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-reports-tests.main" target="8" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-test-results.main" target="8" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-tmp.main" target="8" />
       <module name="Encryption-Decryption.Encryption-Decryption-task.main" target="8" />
       <module name="Encryption-Decryption.util.main" target="8" />
     </bytecodeTargetLevel>

@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="EncryptDecryptTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-23T14:31:45" hostname="leviatan" time="0.04">
+<testsuite name="EncryptDecryptTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-24T14:25:26" hostname="leviatan" time="0.066">
   <properties/>
-  <testcase name="start" classname="EncryptDecryptTest" time="0.04"/>
+  <testcase name="start" classname="EncryptDecryptTest" time="0.066"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
-dv ulfmw z givzhfiv!
+> welcome to hyperskill
+> 5
+bjqhtrj yt mdujwxpnqq
+?[1;31m
+Start test 2?[0m
+> treasure
+> 10
+dbokcebo
+?[1;31m
+Start test 3?[0m
+> qdvdqvrxqwxrxwpvrxspvxiqgdiqarairpbiqqid
+> 12
+cphpchdjcijdjibhdjebhjucspucmdmudbnuccup
+?[1;31m
+Start test 4?[0m
+> y
+> 10
+i
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
