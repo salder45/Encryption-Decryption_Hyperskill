@@ -10,6 +10,19 @@
       <module name="Encryption-Decryption.Encryption-Decryption-task-build-test-results.main" target="8" />
       <module name="Encryption-Decryption.Encryption-Decryption-task-build-tmp.main" target="8" />
       <module name="Encryption-Decryption.Encryption-Decryption-task.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Arrays-Initializing_an_array_of_characters.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Arrays-Initializing_an_array_of_integers.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Arrays-Initializing_an_array_of_longs.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Arrays-The_first_element_of_an_array.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Arrays-Theory.main" target="8" />
+      <module name="Encryption-Decryption.Topics-String_arrays-Help_the_Lord_Commander.main" target="8" />
+      <module name="Encryption-Decryption.Topics-String_arrays-Theory.main" target="8" />
+      <module name="Encryption-Decryption.Topics-String_arrays-Yet_another_array.main" target="8" />
+      <module name="Encryption-Decryption.Topics-The_main___function-Change_program_arguments.main" target="8" />
+      <module name="Encryption-Decryption.Topics-The_main___function-Fix_the_program.main" target="8" />
+      <module name="Encryption-Decryption.Topics-The_main___function-Program_start.main" target="8" />
+      <module name="Encryption-Decryption.Topics-The_main___function-Theory.main" target="8" />
+      <module name="Encryption-Decryption.Topics-The_main___function-Using_arguments.main" target="8" />
       <module name="Encryption-Decryption.util.main" target="8" />
     </bytecodeTargetLevel>
   </component>

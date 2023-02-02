@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/775971/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Thu, 26 Jan 2023 01:42:42 UTC"
+update_date: "Thu, 02 Feb 2023 01:44:02 UTC"
 stages:
 - id: 1415
   step: 21966
@@ -16,7 +16,7 @@ stages:
   is_completed: true
 - id: 1418
   step: 21969
-  is_completed: false
+  is_completed: true
 - id: 1419
   step: 21970
   is_completed: false
@@ -116,14 +116,14 @@ topics:
   3:
   - title: Introduction to Operating systems
     theory_id: 9704
-  - title: Arrays
-    theory_id: 4564
-  - title: String arrays
-    theory_id: 11477
   - title: Command line overview
     theory_id: 8977
   - title: Parameters and Options
     theory_id: 9746
+  - title: Arrays
+    theory_id: 4564
+  - title: String arrays
+    theory_id: 11477
   - title: The main() function
     theory_id: 10484
   4:
