@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun composition(value: Int, y: (Int) -> Int, g: (Int) -> Int): Int {
+        // TODO: provide implementation here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5997#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 03 Feb 2023 03:28:41 UTC"
+record: -1

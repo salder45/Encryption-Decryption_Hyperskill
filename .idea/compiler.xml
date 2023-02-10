@@ -15,6 +15,16 @@
       <module name="Encryption-Decryption.Topics-Arrays-Initializing_an_array_of_longs.main" target="8" />
       <module name="Encryption-Decryption.Topics-Arrays-The_first_element_of_an_array.main" target="8" />
       <module name="Encryption-Decryption.Topics-Arrays-Theory.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Functions_as_objects-First-class_citizen.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Functions_as_objects-First_predicate.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Functions_as_objects-Function_composition.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Functions_as_objects-Kotlin_function_type.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Functions_as_objects-Theory.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Lambda_expressions-_Not__predicate.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Lambda_expressions-Capturing_variable.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Lambda_expressions-Function_composition.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Lambda_expressions-Polynomial.main" target="8" />
+      <module name="Encryption-Decryption.Topics-Lambda_expressions-Theory.main" target="8" />
       <module name="Encryption-Decryption.Topics-String_arrays-Help_the_Lord_Commander.main" target="8" />
       <module name="Encryption-Decryption.Topics-String_arrays-Theory.main" target="8" />
       <module name="Encryption-Decryption.Topics-String_arrays-Yet_another_array.main" target="8" />

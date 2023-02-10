@@ -24,6 +24,16 @@
             <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of longs" />
             <option value="$PROJECT_DIR$/Topics/Arrays/The first element of an array" />
             <option value="$PROJECT_DIR$/Topics/Arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/First predicate" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/First-class citizen" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Function composition" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Kotlin function type" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/ Not  predicate" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Capturing variable" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Function composition" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
             <option value="$PROJECT_DIR$/Topics/String arrays/Help the Lord Commander" />
             <option value="$PROJECT_DIR$/Topics/String arrays/Theory" />
             <option value="$PROJECT_DIR$/Topics/String arrays/Yet another array" />
