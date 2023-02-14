@@ -1,7 +1,8 @@
 package encryptdecrypt
 
 import java.io.File
-
+const val ALPHA_LOWERCASE = "abcdefghijklmnopqrstuvwxyz"
+const val ALPHA_UPPERCASE = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 fun main(args: Array<String>) {
     try {
         val mode: String = getValueArgs(args, "-mode", "enc")
@@ -9,6 +10,7 @@ fun main(args: Array<String>) {
         var data: String = getValueArgs(args, "-data")
         val pathIn: String = getValueArgs(args, "-in")
         val pathOut: String = getValueArgs(args, "-out")
+        val algorithm: String = getValueArgs(args, "-alg", "shift")
         if (pathIn != "" && data == "") {
             data = readFile(pathIn)
         }
@@ -19,7 +21,12 @@ fun main(args: Array<String>) {
             -1
         }
         for (chr in data) {
-            val newValue: Int = chr.code + key * numericOperation
+            val newValue: Int =
+                if (algorithm == "shift") {
+                    caesar(chr, key * numericOperation, mode)
+                } else {
+                    chr.code + key * numericOperation
+                }
             output+= newValue.toChar()
         }
 
@@ -60,3 +67,28 @@ fun writeFile(data: String, filepath: String) {
 fun readFile(filepath: String) :String {
     return File(filepath).readText()
 }
+
+
+fun caesar(chr: Char, key: Int, mode: String) : Int {
+    val alphabet: String = if (chr.isUpperCase()) {
+        ALPHA_UPPERCASE
+    } else {
+        ALPHA_LOWERCASE
+    }
+    return if (alphabet.contains(chr)) {
+        alphabet.first().code + alphabetIndex(alphabet.indexOf(chr) + key)
+    } else {
+        chr.code
+    }
+}
+
+fun alphabetIndex(newIndex: Int): Int {
+    return if (newIndex < 0) {
+        26 + newIndex
+    } else if (newIndex > 26) {
+        0 + (newIndex - 26)
+    } else {
+        newIndex
+    }
+}
+
